@@ -3,6 +3,7 @@ layout: post
 title:  "iOS Push Notification PHP Script"
 date:   2014-06-09 12:25:10
 categories: tech iOS php
+tags: [iOS, PHP]
 ---
 
 iOS下发push有点麻烦，下面是一个网上搜来的php脚本，是根据《iOS 7 Programming Cookbook》书中的测试脚本修改的，用来测试证书是否配置正确。
