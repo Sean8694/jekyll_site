@@ -1,15 +1,15 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Sean's Tech Site
+description:      Sean's tech blog.
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Ran Shi
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "A Dev."
+  email:          sean8694@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
